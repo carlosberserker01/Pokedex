@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/8OM3L0B" alt="pokedexscreenshot" />
+<img src="https://i.imgur.com/AQVcGMD.png" alt="pokedexscreenshot" />
 
 # Getting Started with Create React App
 
