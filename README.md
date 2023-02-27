@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/8OM3L0B)
+<img src="https://imgur.com/a/8OM3L0B" alt="pokedexscreenshot" />
 
 # Getting Started with Create React App
 
